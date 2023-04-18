@@ -1,0 +1,170 @@
+[
+  {
+    "Company": "Maruti",
+    "model": "Ertiga",
+    "year": 2022,
+    "price": 300000,
+    "image": "https://cdn.pixabay.com/photo/2012/11/02/13/02/car-63930_960_720.jpg"
+  },
+  {
+    "Company": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "price": 300000,
+    "image": "https://cdn.pixabay.com/photo/2019/08/04/23/28/honda-4384888_960_720.jpg"
+  },
+  {
+    "Company": "Toyota",
+    "model": "Corolla",
+    "year": 2021,
+    "price": 350000,
+    "image": "https://cdn.pixabay.com/photo/2014/05/18/19/13/toyota-347288_960_720.jpg"
+  },
+  {
+    "Company": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "price": 350000,
+    "image": "https://cdn.pixabay.com/photo/2016/05/06/17/05/car-1376248_960_720.jpg"
+  },
+  {
+    "Company": "Chevrolet",
+    "model": "Camaro",
+    "year": 2021,
+    "price": 400000,
+    "image": "https://cdn.pixabay.com/photo/2015/12/28/23/35/auto-1112183_960_720.jpg"
+  },
+  {
+    "Company": "Audi",
+    "model": "A4",
+    "year": 2022,
+    "price": 400000,
+    "image": "https://cdn.pixabay.com/photo/2019/12/26/20/50/audi-r8-4721217_960_720.jpg"
+  },
+  {
+    "Company": "BMW",
+    "model": "3 Series",
+    "year": 2022,
+    "price": 450000,
+    "image": "https://cdn.pixabay.com/photo/2019/08/20/08/59/bmw-3-series-4418198_960_720.jpg"
+  },
+  {
+    "Company": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "price": 450000,
+    "image": "https://cdn.pixabay.com/photo/2018/04/08/10/24/car-3300913_960_720.jpg"
+  },
+  {
+    "Company": "Lamborghini",
+    "model": "Aventador",
+    "year": 2023,
+    "price": 500000,
+    "image": "https://cdn.pixabay.com/photo/2020/12/01/18/05/lamborghini-5795124_960_720.jpg"
+  },
+  {
+    "Company": "Ferrari",
+    "model": "488 GTB",
+    "year": 2022,
+    "price": 650000,
+    "image": "https://cdn.pixabay.com/photo/2020/12/13/13/06/ferrari-488-5828179_960_720.jpg"
+  },
+  {
+    "Company": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "price": 650000,
+    "image": "https://cdn.pixabay.com/photo/2019/07/02/09/32/tesla-4311968_960_720.jpg"
+  },
+  {
+    "Company": "Porsche",
+    "model": "911",
+    "year": 2021,
+    "price": 650000,
+    "image": "https://cdn.pixabay.com/photo/2020/12/01/18/06/porsche-911-gt2-5795129_960_720.jpg"
+  },
+  {
+    "Company": "Maruti",
+    "model": "Sedan",
+    "year": 2022,
+    "price": 350000,
+    "image": "https://cdn.pixabay.com/photo/2017/10/09/02/05/car-2832238_960_720.jpg"
+  },
+  {
+    "Company": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "price": 350000,
+    "image": "https://cdn.pixabay.com/photo/2020/03/25/15/15/honda-4967605_960_720.jpg"
+  },
+  {
+    "Company": "Toyota",
+    "model": "Discovery",
+    "year": 2021,
+    "price": 350000,
+    "image": "https://cdn.pixabay.com/photo/2020/06/26/14/11/range-rover-discovery-5342852_960_720.jpg"
+  },
+  {
+    "Company": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "price": 400000,
+    "image": "https://cdn.pixabay.com/photo/2016/05/06/15/58/car-1376083_960_720.jpg"
+  },
+  {
+    "Company": "Chevrolet",
+    "model": "Camaro",
+    "year": 2021,
+    "price": 400000,
+    "image": "https://cdn.pixabay.com/photo/2017/08/24/20/31/car-2678274_960_720.jpg"
+  },
+  {
+    "Company": "Audi",
+    "model": "A5",
+    "year": 2022,
+    "price": 400000,
+    "image": "https://cdn.pixabay.com/photo/2016/12/03/11/47/car-1879630_960_720.jpg"
+  },
+  {
+    "Company": "BMW",
+    "model": "5 Series",
+    "year": 2022,
+    "price": 450000,
+    "image": "https://cdn.pixabay.com/photo/2022/10/06/10/42/car-7502430_960_720.jpg"
+  },
+  {
+    "Company": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "price": 450000,
+    "image": "https://cdn.pixabay.com/photo/2018/05/20/23/36/mercedes-3417100_960_720.jpg"
+  },
+  {
+    "Company": "Lamborghini",
+    "model": "Aventador",
+    "year": 2023,
+    "price": 500000,
+    "image": "https://cdn.pixabay.com/photo/2017/11/09/19/48/lamborghini-murcielago-2934446_960_720.jpg"
+  },
+  {
+    "Company": "Ferrari",
+    "model": "488 GTB",
+    "year": 2022,
+    "price": 500000,
+    "image": "https://cdn.pixabay.com/photo/2015/04/14/09/13/ferrari-721858_960_720.jpg"
+  },
+  {
+    "Company": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "price": 600000,
+    "image": "https://cdn.pixabay.com/photo/2014/09/07/22/34/car-race-438467_960_720.jpg"
+  },
+  {
+    "Company": "Porsche",
+    "model": "911",
+    "year": 2021,
+    "price": 600000,
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/23/44/porsche-1851246_960_720.jpg"
+  }
+]
